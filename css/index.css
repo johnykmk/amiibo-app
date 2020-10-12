@@ -1,0 +1,31 @@
+body {
+    background: url(https://i.postimg.cc/CLdpGSRq/index5.jpg) no-repeat center
+        center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#app-name {
+    font-family: "Bungee Shade";
+    font-size: 80px;
+    margin-top: 70px;
+}
+
+#app {
+    margin-top: 100px;
+}
+
+.card {
+    
+    background-color: transparent;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+}
+
+img {
+    
+    border-radius: 5px 5px 0 0;
+}
